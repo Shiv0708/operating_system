@@ -24,7 +24,9 @@ Visualization:
 
 ---
 
-## 📸 Screenshot (example)
+## 📸 Screenshot 
+<img width="2866" height="1312" alt="image" src="https://github.com/user-attachments/assets/57fa9e69-5b27-4207-807a-f39da05c32dc" />
+
 
 
 
